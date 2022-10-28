@@ -625,7 +625,9 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/sm8250-common/proprietary/odm/firmware/aw8697_haptic_174.bin:$(TARGET_COPY_OUT_ODM)/firmware/aw8697_haptic_174.bin \
     vendor/oneplus/sm8250-common/proprietary/odm/firmware/aw8697_haptic_235.bin:$(TARGET_COPY_OUT_ODM)/firmware/aw8697_haptic_235.bin \
     vendor/oneplus/sm8250-common/proprietary/odm/firmware/aw8697_haptic_235_19161.bin:$(TARGET_COPY_OUT_ODM)/firmware/aw8697_haptic_235_19161.bin \
+    vendor/oneplus/sm8250-common/proprietary/odm/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_160Hz.bin:$(TARGET_COPY_OUT_ODM)/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_160HZ.bin \
     vendor/oneplus/sm8250-common/proprietary/odm/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_160Hz.bin:$(TARGET_COPY_OUT_ODM)/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_160Hz.bin \
+    vendor/oneplus/sm8250-common/proprietary/odm/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_162Hz.bin:$(TARGET_COPY_OUT_ODM)/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_162HZ.bin \
     vendor/oneplus/sm8250-common/proprietary/odm/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_162Hz.bin:$(TARGET_COPY_OUT_ODM)/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_162Hz.bin \
     vendor/oneplus/sm8250-common/proprietary/odm/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_164Hz.bin:$(TARGET_COPY_OUT_ODM)/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_164Hz.bin \
     vendor/oneplus/sm8250-common/proprietary/odm/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_166Hz.bin:$(TARGET_COPY_OUT_ODM)/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_166Hz.bin \
@@ -1843,6 +1845,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/sm8250-common/proprietary/vendor/lib64/libC2D2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libC2D2.so \
     vendor/oneplus/sm8250-common/proprietary/vendor/lib64/libCB.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libCB.so \
     vendor/oneplus/sm8250-common/proprietary/vendor/lib64/libFlacSwDec.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libFlacSwDec.so \
+    vendor/oneplus/sm8250-common/proprietary/vendor/lib64/libgame_enhance.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgame_enhance.so \
     vendor/oneplus/sm8250-common/proprietary/vendor/lib64/libGPQTEEC_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libGPQTEEC_vendor.so \
     vendor/oneplus/sm8250-common/proprietary/vendor/lib64/libGPTEE_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libGPTEE_vendor.so \
     vendor/oneplus/sm8250-common/proprietary/vendor/lib64/libGPreqcancel.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libGPreqcancel.so \
