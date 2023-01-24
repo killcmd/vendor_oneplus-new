@@ -628,9 +628,9 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/sm8250-common/proprietary/odm/firmware/aw8697_haptic_174.bin:$(TARGET_COPY_OUT_ODM)/firmware/aw8697_haptic_174.bin \
     vendor/oneplus/sm8250-common/proprietary/odm/firmware/aw8697_haptic_235.bin:$(TARGET_COPY_OUT_ODM)/firmware/aw8697_haptic_235.bin \
     vendor/oneplus/sm8250-common/proprietary/odm/firmware/aw8697_haptic_235_19161.bin:$(TARGET_COPY_OUT_ODM)/firmware/aw8697_haptic_235_19161.bin \
+    vendor/oneplus/sm8250-common/proprietary/odm/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_160HZ.bin:$(TARGET_COPY_OUT_ODM)/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_160HZ.bin \
     vendor/oneplus/sm8250-common/proprietary/odm/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_160Hz.bin:$(TARGET_COPY_OUT_ODM)/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_160Hz.bin \
-    vendor/oneplus/sm8250-common/proprietary/odm/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_160Hz.bin:$(TARGET_COPY_OUT_ODM)/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_160Hz.bin \
-    vendor/oneplus/sm8250-common/proprietary/odm/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_162Hz.bin:$(TARGET_COPY_OUT_ODM)/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_162Hz.bin \
+    vendor/oneplus/sm8250-common/proprietary/odm/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_162HZ.bin:$(TARGET_COPY_OUT_ODM)/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_162HZ.bin \
     vendor/oneplus/sm8250-common/proprietary/odm/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_162Hz.bin:$(TARGET_COPY_OUT_ODM)/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_162Hz.bin \
     vendor/oneplus/sm8250-common/proprietary/odm/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_164Hz.bin:$(TARGET_COPY_OUT_ODM)/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_164Hz.bin \
     vendor/oneplus/sm8250-common/proprietary/odm/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_166Hz.bin:$(TARGET_COPY_OUT_ODM)/firmware/aw8697_high_temp_high_humidity_channel_RTP_51_166Hz.bin \
